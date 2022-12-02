@@ -1,2 +1,2 @@
 #!/bin/bash
-mod a+x */
+chmod a+x */
