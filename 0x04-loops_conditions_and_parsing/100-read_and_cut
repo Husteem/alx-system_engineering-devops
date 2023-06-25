@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Script that displays the content o the file /etc/passwd
+# Script that displays the content o the file /etc/passwd husteem
 
 while read -r passwd; do
 	echo "$passwd" | cut -d ':' -f1,3,6
